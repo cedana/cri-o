@@ -2,7 +2,7 @@ go 1.22.0
 
 toolchain go1.22.2
 
-module github.com/cri-o/cri-o
+module github.com/cedana/cri-o
 
 require (
 	github.com/BurntSushi/toml v1.4.0
